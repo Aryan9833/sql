@@ -1,0 +1,24 @@
+{
+  "name": "signup-form-project",
+  "version": "1.0.0",
+  "description": "A simple sign-up form project with HTML, CSS, and JavaScript.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "signup",
+    "form",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
